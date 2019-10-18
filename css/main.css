@@ -21,6 +21,10 @@ header {
   text-align: center;
 }
 
+.current {
+  background-color: #b20953;
+}
+
 nav {
   padding-left: 0;
 }
@@ -38,9 +42,9 @@ h1 {
 }
 
 p {
-  font-size: 1.105rem;
+  font-size: 1rem;
   font-weight: lighter;
-  padding: 0 .75em;
+  padding: 0;
   text-align: left;
 }
 
