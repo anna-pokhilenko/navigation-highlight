@@ -38,7 +38,6 @@ h1 {
   margin-top: 0;
   margin-bottom: 0;
   padding: 0;
-
 }
 
 p {
@@ -56,13 +55,11 @@ a {
   font-family: Georgia, serif;
   text-decoration: none;
   background-color: #b2a212;
-  font-family: serif;
   color: #fff;
   border-radius: 4px;
   padding: .2em .5em .3em;
   display: inline-block;
   font-size: 1.125rem;
-
 }
 
 ul li {
