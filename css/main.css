@@ -1,5 +1,6 @@
 html {
   line-height: 1.5;
+  box-sizing: border-box;
 }
 
 *, *::before, *::after {
@@ -22,7 +23,7 @@ header {
 }
 
 .current {
-  background-color: #b20953;
+  background-color: #cc1465;
 }
 
 nav {
